@@ -1,0 +1,24 @@
+/codex-lab
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Standalone editor binaries and bundled Python runtime
+/XenobladeEditors/app/
+
+# Reproducible build dependencies and outputs
+/XenobladeEditors/development/build-tools/
+/XenobladeEditors/development/build/
+/XenobladeEditors/development/dist/
+/XenobladeEditors/development/*.spec
+
+# Local game paths and user settings
+/XenobladeEditors/settings/*.json
+/XenobladeEditors/settings/*.tmp
+
+# Machine-specific build and validation records
+/XenobladeEditors/development/*_smoke*.json
+/XenobladeEditors/development/release_verification.json
+/XenobladeEditors/development/relocation_*.json
+/XenobladeEditors/development/source_origin.json
