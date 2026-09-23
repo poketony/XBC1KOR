@@ -1,0 +1,85 @@
+root/
+     files/
+	       ev/(-)
+		      vs
+		   [common.pkb](-)
+		   -0000000f.dat_extract(menu_arts_ms)(O)
+		   -0000001c.dat_extract(menu_psv_ms)(O)
+		   -00000022.dat_extract(menu_mes_ms)(O)
+		   -0000001d.dat_extract(menu_award_ms)(O)
+		   -0000001f.dat_extract(menu_kzn_ms)(O)
+		   -00000020.dat_extract(menu_slog_ms)(O)
+		   -00000005.dat_extract(menu_ttrl_ms)(O)
+		   남은 목록 menu_item
+		   
+		   
+		   [map.pkb](-)
+		   -00000004.dap_ma0101(O)
+		   -00000006.dap_ma0201(O)
+		   
+		   [script.pkb](-)
+		   -
+		   
+		   
+	       static.arc(O)
+		   -dvddata/
+				    common/
+					      jp/
+							 bdat.bin
+							 -BTL_bufflist_84152.bdat(버프명)(O, 사용행만)
+							 -BTL_crystalnamelist_95832.bdat(젬명)(O)
+							 -BTL_enelist_97192.bdat(적명)(O, 사용행만)
+							 -BTL_pclist_171560.bdat(파티원명)(O)
+							 -BTL_PSSlist_168168.bdat(능력치명)(O)
+							 -BTL_PSVskill_162584.bdat(스킬명)(O)
+							 -BTL_skilllist_173240.bdat(스킬 설명)(O)
+							 -CL6_hintlist_183736.bdat(콜로니6 부흥 힌트 리스트)(O)
+							 -CL6_revivallist_183176.bdat(리바이벌)(O)
+							 -ene_arts_488(적 아츠명)(통상 추출 불가, 인공지능 협업으로 완료)(O)
+							 -FLD_maplist_223720.bdat(에어리어 맵 설명)(O, 사용행만)
+							 -FLD_npclist_229336.bdat(NPC 리스트)(O, 수정 필요)
+							 -FLD_pointlist_294440.bdat(포인트 리스트)(O)
+							 -ITM_artslist_546008.bdat(아츠북 리스트)(O)
+							 -ITM_collectlist_551112.bdat(컬렉피디아 리스트)(O)
+							 -ITM_equiplist_513144.bdat(장비 리스트)(O)
+							 -ITM_materiallist_561176.bdat(템 리스트)(O)
+							 -ITM_valuablelist_572904.bdat(희귀템 리스트)(O)
+							 -ITM_wpnlist_442808.bdat(무기 리스트)(O)
+							 -JNL
+							 -minimap
+							 -landmarklist_200184.bdat(랜드마크 리스트)(O)
+							 -MNU_battle_784984.bdat(배틀 메뉴)(O)
+							 -MNU_col6_796088.bdat(콜로니 6)(O)
+							 -MNU_collect_790584.bdat(컬렉피디아)(O)
+							 -MNU_crystal_794600.bdat(젬 크래프트)(O)
+							 -MNU_item_787112.bdat(아이템)(O)
+							 -MNU_kyeassign_772696.bdat(조작)(O)
+							 -MNU_main_775672.bdat(메인 메뉴)(O)
+							 -MNU_map_791064.bdat(에어리어 메뉴)(O)
+							 -MNU_name_783976.bdat(이름)(O)
+							 -MNU_party_786696.bdat(파티 메뉴)(O)
+							 -MNU_passive_792664.bdat(스킬 조정 메시지)(O)
+							 -MNU_quest_791624.bdat(퀘스트 메시지)(O)
+							 -MNU_relate_793464.bdat(인연 맵 메뉴)(O)
+							 -MNU_shop_789672.bdat(상점 메뉴)(O)
+							 -MNU_sysmes_779608.bdat(시스템 메시지)(O)
+							 -MNU_update_794168.bdat(인연 토크 리스트)(O)
+							 -pc_arts_65816.bdat(아츠 설명)(O)
+							 -pctalk_01_305288.bdat(토크1)(O)
+							 -pctalk_02_307736.bdat(토크2)(O, 일단 대충 쑤셔넣어 봄)
+					etc/
+					menu/
+		    
+		   -adx.pkh
+		   -ahx.pkh
+		   -chr.pkh
+		   -common.pkh
+		   -eff.pkh
+		   -font.pkh
+		   -map.pkh
+		   -menu.pkh
+		   -obj.pkh
+		   -script.pkh
+		   -snd.pkh
+		   -work.pkh
+		   

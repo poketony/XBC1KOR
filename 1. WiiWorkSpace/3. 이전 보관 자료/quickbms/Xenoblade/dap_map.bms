@@ -1,0 +1,39 @@
+# Game: Xenoblade (Wii) (DAP1)
+# by Falo - 2010
+# script for QuickBMS http://aluigi.org/papers.htm#quickbms
+
+endian big
+
+get FileID long
+get numFiles long
+
+SavePos ftemp
+
+for i = 1 to numFiles
+goto ftemp
+
+GetDString Name 8
+get Offset long
+get CSize long
+get USize long
+get unk1 short
+get unk2 short
+SavePos ftemp
+
+goto Offset
+
+GetDString FileExt 3
+get unk3 byte
+get USize2 long
+
+math Offset += 8
+string Name += "."
+string Name += FileExt
+
+ComType zlib
+
+clog Name Offset CSize USize
+
+next i
+
+CleanExit

@@ -1,0 +1,89 @@
+//--------------------------------------
+//--- 010 Editor v3.1.2 Binary Template
+//
+// File: Xenoblade *.bdat
+// Author: Falo
+// Revision:
+// Purpose:
+//--------------------------------------
+BigEndian();
+local int i,j,numTables;
+
+struct{
+    char FileID[4];
+    int ofsTableHeaders;
+    short sizeTableStruct;
+    short ofsTable;
+    short numEntrys;
+    short unk1;
+    short unk2;
+    short unk3;
+}Header;
+
+numTables = (Header.ofsTableHeaders - 0x20) / 4;
+
+FSeek(0x20);
+struct{
+    for(i=0;i<numTables;i++)
+    {
+        struct{
+            byte unk1;
+            byte type;
+            short idx;
+        }Data;
+    }
+}TypeTable;
+
+FSeek(Header.ofsTableHeaders);
+struct{
+    char BDATName[];
+    for(i=0;i<numTables;i++)
+    {
+        struct{
+            ushort dat1;
+            if (dat1 == 0) 
+            {
+                ubyte dat1_1;
+            }
+            ushort dat2;
+            char Name[];
+            Printf("Table %03d: %s\n",i,Name);
+        }THeader;
+    }
+}TableHeaders;
+
+struct{
+    for(i=0;i<Header.numEntrys;i++)
+    {
+        FSeek(Header.ofsTable + (i * Header.sizeTableStruct));
+        j = 0;
+        struct{
+            do
+            {
+                switch(TypeTable.Data[j].type)
+                {
+                    case 1:
+                        ubyte data_ubyte;
+                        break;
+                    case 2:
+                        ushort data_ushort;
+                        break;
+                    case 4:
+                        ubyte data_ubyte2;
+                        break;
+                    case 5:
+                        ushort data_ushort2;
+                        break;
+                    case 7:
+                        ushort data_string_offset;
+                        break;
+                    default:
+                        byte unk1;
+                        break;
+                }
+                j++;
+            }
+            while(j != numTables);
+        }Entry;
+    }
+}Tables;

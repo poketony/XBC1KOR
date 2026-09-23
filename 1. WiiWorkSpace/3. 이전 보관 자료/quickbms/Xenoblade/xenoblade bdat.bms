@@ -1,0 +1,39 @@
+# Game: Xenoblade (Wii) - (bdat)
+# by Falo - 2010
+# script for QuickBMS http://aluigi.org/papers.htm#quickbms
+
+endian big
+
+get numFiles long
+get Filesize long
+
+SavePos ftemp
+
+for i = 1 to numFiles
+   goto ftemp
+   get Offset long
+   SavePos ftemp
+   get Offset2 long
+
+   if i = numFiles
+      set Size Filesize
+   else
+      set Size Offset2
+   endif
+   math Size -= Offset
+
+   goto Offset
+   get FileID long
+   get ofsName long
+
+   math ofsName += Offset
+   goto ofsName
+
+   get Name string
+   string Name += "_"
+   string Name += Offset
+   string Name += ".bdat"
+
+log Name Offset Size
+
+next i
