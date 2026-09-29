@@ -1,0 +1,2948 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nintendo.co.jp/sdd/2010/page" version="1.2.1">
+  <head>
+    <create user="" host="" date="2026-09-13T22:10:57.733857+09:00" source="BCMA Workshop generic reconstruction" />
+    <title />
+    <comment />
+    <generator name="BCMA Workshop Reconstructor" version="0.3.1-framefix" />
+  </head>
+  <body>
+    <ncpg>
+      <header>バフ（支援）効果</header>
+      <category />
+      <paneSet>
+        <pane kind="Null" name="Group_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="257.555542" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="1429" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="35" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="84" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="1345" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="84" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="36" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_20">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="118" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="60" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="177" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="84" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="260" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="60" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="319" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="60" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="378" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="84" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="461" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="60" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_21">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="520" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="84" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="603" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="84" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="686" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="84" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="769" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="84" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="852" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="197" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Null" name="Group_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="185" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="1048" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="108" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="1155" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="132" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="1286" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="60" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="7" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Null" name="Group_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="30" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="219.555557" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Picture" name="Picture_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="111" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_00">
+              <texMap imageName="back_c_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="1666.555542" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="73" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_01">
+              <texMap imageName="back_c_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_34">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="164" g="120" b="52" a="255" />
+              <vtxColRT r="164" g="120" b="52" a="255" />
+              <vtxColLB r="164" g="120" b="52" a="255" />
+              <vtxColRB r="164" g="120" b="52" a="255" />
+              <material name="Frame_34C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_34LT">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_34RT">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_34LB">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_34RB">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_35">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="248" b="238" a="255" />
+              <vtxColRT r="255" g="248" b="238" a="255" />
+              <vtxColLB r="255" g="248" b="238" a="255" />
+              <vtxColRB r="255" g="248" b="238" a="255" />
+              <material name="Frame_35C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_35LT">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_35RT">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_35LB">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_35RB">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="30" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_03">
+              <texMap imageName="15_icon_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_36">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="190" g="153" b="83" a="255" />
+              <vtxColRT r="190" g="153" b="83" a="255" />
+              <vtxColLB r="190" g="153" b="83" a="255" />
+              <vtxColRB r="190" g="153" b="83" a="255" />
+              <material name="Frame_36C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_36LT">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_36RT">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_36LB">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_36RB">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_37">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="255" b="255" a="255" />
+              <vtxColRT r="255" g="255" b="255" a="255" />
+              <vtxColLB r="255" g="255" b="255" a="255" />
+              <vtxColRB r="255" g="255" b="255" a="255" />
+              <material name="Frame_37C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_37LT">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_37RT">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_37LB">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_37RB">
+                <texMap imageName="hyou_ab_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="30" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_05">
+              <texMap imageName="15_icon_17" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_38">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="36" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="190" g="153" b="83" a="255" />
+              <vtxColRT r="190" g="153" b="83" a="255" />
+              <vtxColLB r="190" g="153" b="83" a="255" />
+              <vtxColRB r="190" g="153" b="83" a="255" />
+              <material name="Frame_38C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_38LT">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_38RT">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_38LB">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_38RB">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_39">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="36" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="255" b="255" a="255" />
+              <vtxColRT r="255" g="255" b="255" a="255" />
+              <vtxColLB r="255" g="255" b="255" a="255" />
+              <vtxColRB r="255" g="255" b="255" a="255" />
+              <material name="Frame_39C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_39LT">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_39RT">
+                <texMap imageName="hyou_ab_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_39LB">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_39RB">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="6" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_02">
+              <texMap imageName="15_icon_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_40">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="60" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="190" g="153" b="83" a="255" />
+              <vtxColRT r="190" g="153" b="83" a="255" />
+              <vtxColLB r="190" g="153" b="83" a="255" />
+              <vtxColRB r="190" g="153" b="83" a="255" />
+              <material name="Frame_40C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_40LT">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_40RT">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_40LB">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_40RB">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_41">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="60" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="255" b="255" a="255" />
+              <vtxColRT r="255" g="255" b="255" a="255" />
+              <vtxColLB r="255" g="255" b="255" a="255" />
+              <vtxColRB r="255" g="255" b="255" a="255" />
+              <material name="Frame_41C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_41LT">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_41RT">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_41LB">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_41RB">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_04">
+              <texMap imageName="15_icon_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="164" g="120" b="52" a="255" />
+              <vtxColRT r="164" g="120" b="52" a="255" />
+              <vtxColLB r="164" g="120" b="52" a="255" />
+              <vtxColRB r="164" g="120" b="52" a="255" />
+              <material name="Frame_00C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00LT">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00RT">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_00LB">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_00RB">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="248" b="238" a="255" />
+              <vtxColRT r="255" g="248" b="238" a="255" />
+              <vtxColLB r="255" g="248" b="238" a="255" />
+              <vtxColRB r="255" g="248" b="238" a="255" />
+              <material name="Frame_02C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_02LT">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_02RT">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_02LB">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_02RB">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="30" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_06">
+              <texMap imageName="15_icon_04" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="60" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="190" g="153" b="83" a="255" />
+              <vtxColRT r="190" g="153" b="83" a="255" />
+              <vtxColLB r="190" g="153" b="83" a="255" />
+              <vtxColRB r="190" g="153" b="83" a="255" />
+              <material name="Frame_03C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_03LT">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_03RT">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_03LB">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_03RB">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="60" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="255" b="255" a="255" />
+              <vtxColRT r="255" g="255" b="255" a="255" />
+              <vtxColLB r="255" g="255" b="255" a="255" />
+              <vtxColRB r="255" g="255" b="255" a="255" />
+              <material name="Frame_04C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_04LT">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_04RT">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_04LB">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_04RB">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_07">
+              <texMap imageName="15_icon_05" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="60" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="164" g="120" b="52" a="255" />
+              <vtxColRT r="164" g="120" b="52" a="255" />
+              <vtxColLB r="164" g="120" b="52" a="255" />
+              <vtxColRB r="164" g="120" b="52" a="255" />
+              <material name="Frame_01C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_01LT">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_01RT">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_01LB">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_01RB">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="60" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="248" b="238" a="255" />
+              <vtxColRT r="255" g="248" b="238" a="255" />
+              <vtxColLB r="255" g="248" b="238" a="255" />
+              <vtxColRB r="255" g="248" b="238" a="255" />
+              <material name="Frame_07C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_07LT">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_07RT">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_07LB">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_07RB">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_08">
+              <texMap imageName="15_icon_06" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="190" g="153" b="83" a="255" />
+              <vtxColRT r="190" g="153" b="83" a="255" />
+              <vtxColLB r="190" g="153" b="83" a="255" />
+              <vtxColRB r="190" g="153" b="83" a="255" />
+              <material name="Frame_08C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_08LT">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_08RT">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_08LB">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_08RB">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="255" b="255" a="255" />
+              <vtxColRT r="255" g="255" b="255" a="255" />
+              <vtxColLB r="255" g="255" b="255" a="255" />
+              <vtxColRB r="255" g="255" b="255" a="255" />
+              <material name="Frame_09C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_09LT">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_09RT">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_09LB">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_09RB">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="30" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_09">
+              <texMap imageName="15_icon_07" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="60" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="164" g="120" b="52" a="255" />
+              <vtxColRT r="164" g="120" b="52" a="255" />
+              <vtxColLB r="164" g="120" b="52" a="255" />
+              <vtxColRB r="164" g="120" b="52" a="255" />
+              <material name="Frame_10C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_10LT">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_10RT">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_10LB">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_10RB">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="60" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="248" b="238" a="255" />
+              <vtxColRT r="255" g="248" b="238" a="255" />
+              <vtxColLB r="255" g="248" b="238" a="255" />
+              <vtxColRB r="255" g="248" b="238" a="255" />
+              <material name="Frame_11C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_11LT">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_11RT">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_11LB">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_11RB">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_10">
+              <texMap imageName="15_icon_08" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_42">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="190" g="153" b="83" a="255" />
+              <vtxColRT r="190" g="153" b="83" a="255" />
+              <vtxColLB r="190" g="153" b="83" a="255" />
+              <vtxColRB r="190" g="153" b="83" a="255" />
+              <material name="Frame_42C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_42LT">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_42RT">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_42LB">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_42RB">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_43">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="255" b="255" a="255" />
+              <vtxColRT r="255" g="255" b="255" a="255" />
+              <vtxColLB r="255" g="255" b="255" a="255" />
+              <vtxColRB r="255" g="255" b="255" a="255" />
+              <material name="Frame_43C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_43LT">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_43RT">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_43LB">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_43RB">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="30" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_11">
+              <texMap imageName="15_icon_09" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="164" g="120" b="52" a="255" />
+              <vtxColRT r="164" g="120" b="52" a="255" />
+              <vtxColLB r="164" g="120" b="52" a="255" />
+              <vtxColRB r="164" g="120" b="52" a="255" />
+              <material name="Frame_12C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_12LT">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_12RT">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_12LB">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_12RB">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="248" b="238" a="255" />
+              <vtxColRT r="255" g="248" b="238" a="255" />
+              <vtxColLB r="255" g="248" b="238" a="255" />
+              <vtxColRB r="255" g="248" b="238" a="255" />
+              <material name="Frame_13C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_13LT">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_13RT">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_13LB">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_13RB">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="30" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_12">
+              <texMap imageName="15_icon_10" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="190" g="153" b="83" a="255" />
+              <vtxColRT r="190" g="153" b="83" a="255" />
+              <vtxColLB r="190" g="153" b="83" a="255" />
+              <vtxColRB r="190" g="153" b="83" a="255" />
+              <material name="Frame_14C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_14LT">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_14RT">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_14LB">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_14RB">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="255" b="255" a="255" />
+              <vtxColRT r="255" g="255" b="255" a="255" />
+              <vtxColLB r="255" g="255" b="255" a="255" />
+              <vtxColRB r="255" g="255" b="255" a="255" />
+              <material name="Frame_15C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_15LT">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_15RT">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_15LB">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_15RB">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="30" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_13">
+              <texMap imageName="15_icon_11" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_16">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="164" g="120" b="52" a="255" />
+              <vtxColRT r="164" g="120" b="52" a="255" />
+              <vtxColLB r="164" g="120" b="52" a="255" />
+              <vtxColRB r="164" g="120" b="52" a="255" />
+              <material name="Frame_16C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_16LT">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_16RT">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_16LB">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_16RB">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="248" b="238" a="255" />
+              <vtxColRT r="255" g="248" b="238" a="255" />
+              <vtxColLB r="255" g="248" b="238" a="255" />
+              <vtxColRB r="255" g="248" b="238" a="255" />
+              <material name="Frame_17C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_17LT">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_17RT">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_17LB">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_17RB">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="30" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_14">
+              <texMap imageName="15_icon_12" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="197" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="190" g="153" b="83" a="255" />
+              <vtxColRT r="190" g="153" b="83" a="255" />
+              <vtxColLB r="190" g="153" b="83" a="255" />
+              <vtxColRB r="190" g="153" b="83" a="255" />
+              <material name="Frame_18C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_18LT">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_18RT">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_18LB">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_18RB">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="197" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="255" b="255" a="255" />
+              <vtxColRT r="255" g="255" b="255" a="255" />
+              <vtxColLB r="255" g="255" b="255" a="255" />
+              <vtxColRB r="255" g="255" b="255" a="255" />
+              <material name="Frame_19C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_19LT">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_19RT">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_19LB">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_19RB">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="86.5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_15">
+              <texMap imageName="15_icon_13" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_20">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="108" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="164" g="120" b="52" a="255" />
+              <vtxColRT r="164" g="120" b="52" a="255" />
+              <vtxColLB r="164" g="120" b="52" a="255" />
+              <vtxColRB r="164" g="120" b="52" a="255" />
+              <material name="Frame_20C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_20LT">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_20RT">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_20LB">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_20RB">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_21">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="108" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="248" b="238" a="255" />
+              <vtxColRT r="255" g="248" b="238" a="255" />
+              <vtxColLB r="255" g="248" b="238" a="255" />
+              <vtxColRB r="255" g="248" b="238" a="255" />
+              <material name="Frame_21C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_21LT">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_21RT">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_21LB">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_21RB">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_16">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="42" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_16">
+              <texMap imageName="15_icon_14" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_22">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="132" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="190" g="153" b="83" a="255" />
+              <vtxColRT r="190" g="153" b="83" a="255" />
+              <vtxColLB r="190" g="153" b="83" a="255" />
+              <vtxColRB r="190" g="153" b="83" a="255" />
+              <material name="Frame_22C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_22LT">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_22RT">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_22LB">
+                <texMap imageName="hyou_aa_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_22RB">
+                <texMap imageName="hyou_aa_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_23">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="132" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="255" b="255" a="255" />
+              <vtxColRT r="255" g="255" b="255" a="255" />
+              <vtxColLB r="255" g="255" b="255" a="255" />
+              <vtxColRB r="255" g="255" b="255" a="255" />
+              <material name="Frame_23C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_23LT">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_23RT">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_23LB">
+                <texMap imageName="hyou_ab_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_23RB">
+                <texMap imageName="hyou_ab_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="54" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_17">
+              <texMap imageName="15_icon_15" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_24">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="60" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="164" g="120" b="52" a="255" />
+              <vtxColRT r="164" g="120" b="52" a="255" />
+              <vtxColLB r="164" g="120" b="52" a="255" />
+              <vtxColRB r="164" g="120" b="52" a="255" />
+              <material name="Frame_24C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_24LT">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_24RT">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_24LB">
+                <texMap imageName="hyou_ba_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_24RB">
+                <texMap imageName="hyou_ba_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_25">
+          <basePositionType x="Left" y="Top" />
+          <translate x="140" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="60" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="248" b="238" a="255" />
+              <vtxColRT r="255" g="248" b="238" a="255" />
+              <vtxColLB r="255" g="248" b="238" a="255" />
+              <vtxColRB r="255" g="248" b="238" a="255" />
+              <material name="Frame_25C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_25LT">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_25RT">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_25LB">
+                <texMap imageName="hyou_bb_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_25RB">
+                <texMap imageName="hyou_bb_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="22" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_18">
+              <texMap imageName="15_icon_16" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="24" y="123" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1.222222" y="1.222222" />
+          <size x="26" y="23" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_19">
+              <texMap imageName="15_icon_18" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="120" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>仲間のアーツやモンスターの攻撃によって、ステータスにさまざまな効果が現れることがあります。一定時間が経つかバトルが終了すると、効果はなくなります。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_37">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="123" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="96.555557" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="※">
+            <fontSize x="15" y="18" />
+            <text>&lt;indent/&gt;（ゲーム設定）で、「バフ・デバフ説明」を「毎回表示」にすると、戦闘中にで説明を確認できます。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_37">
+              <texMap imageName="button_START" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>true</texEnabled>
+            <texLayoutPosition>RightBottom</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>72</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>22.111115</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_38">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="29" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>物理バリア</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_38" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_39">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="72" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>受ける物理ダメージを一定割合軽減する。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_39" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_40">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="29" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>ヘイスト</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_40" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_41">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="72" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>オートアタックの間隔が短くなる。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_41" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_42">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>筋力アップ</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_42" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_43">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>筋力が上昇する。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_43" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_44">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>エーテル力アップ</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_44" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_45">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>エーテル力が上昇する。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_45" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_52">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="17" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>エーテルバリア</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_52" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_53">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="72" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>受けるエーテルダメージを一定割合軽減する。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_53" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_54">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>素早さアップ</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_54" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_55">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>素早さが上昇する。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_55" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_56">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="17" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>時間ヒール</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_56" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_57">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>時間とともにHPが回復する。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_57" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_58">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="17" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>ダメージヒール</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_58" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_59">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="72" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>ダメージを受けると、HPが回復する。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_59" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_60">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>ダメージ無効</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_60" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_61">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>ダメージを一定量受けなくなる。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_61" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_62">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="29" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>デバフ無効</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_62" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_63">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="72" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>デバフ効果を一切受けつけなくなる。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_63" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_64">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="17" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>物理アーツ強化</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_64" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_65">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="72" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>物理系アーツのダメージが増加する。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_65" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_66">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="29" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>攻撃反射</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_66" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_67">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="72" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>タレントアーツ以外の攻撃を反射する。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_67" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_68">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="29" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>オーラ</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_68" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_69">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="72" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>さまざまなバフ効果のあるオーラをまとう。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_69" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_70">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="85.5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>シールド</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_70" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_71">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="72" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>モンスターのタレントアーツを防ぐ。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_71" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_72">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="75" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="110" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="※">
+            <fontSize x="15" y="18" />
+            <text>&lt;indent/&gt;モンスターのアーツが、シールドのアーツレベル以下の場合のみ。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_72" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_73">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="29" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>エンチャント</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_73" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_74">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="96" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>機神兵への攻撃が弾かれなくなり、追加ダメージを与える。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_74" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_75">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="53" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>アーマー</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_75" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_76">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="120" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>物理耐性とエーテル耐性が上昇し、受けるダメージを一定割合軽減する。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_76" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_77">
+          <basePositionType x="Left" y="Top" />
+          <translate x="33" y="17" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="100" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>スピード</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_77" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_78">
+          <basePositionType x="Left" y="Top" />
+          <translate x="148" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>回避率が大幅に上昇する。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_78" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="Picture_00" />
+          <paneTree name="Picture_01" />
+          <paneTree name="Group_00">
+            <paneTree name="HorizonG_17">
+              <paneTree name="Frame_34" />
+              <paneTree name="Frame_35" />
+              <paneTree name="TextBox_38" />
+              <paneTree name="TextBox_39" />
+              <paneTree name="Picture_03" />
+            </paneTree>
+            <paneTree name="HorizonG_18">
+              <paneTree name="Frame_36" />
+              <paneTree name="Frame_37" />
+              <paneTree name="TextBox_40" />
+              <paneTree name="TextBox_41" />
+              <paneTree name="Picture_05" />
+            </paneTree>
+            <paneTree name="HorizonG_19">
+              <paneTree name="Frame_38" />
+              <paneTree name="Frame_39" />
+              <paneTree name="TextBox_42" />
+              <paneTree name="TextBox_43" />
+              <paneTree name="Picture_02" />
+            </paneTree>
+            <paneTree name="HorizonG_20">
+              <paneTree name="Frame_40" />
+              <paneTree name="Frame_41" />
+              <paneTree name="TextBox_44" />
+              <paneTree name="TextBox_45" />
+              <paneTree name="Picture_04" />
+            </paneTree>
+            <paneTree name="HorizonG_04">
+              <paneTree name="Frame_00" />
+              <paneTree name="Frame_02" />
+              <paneTree name="TextBox_52" />
+              <paneTree name="TextBox_53" />
+              <paneTree name="Picture_06" />
+            </paneTree>
+            <paneTree name="HorizonG_05">
+              <paneTree name="Frame_03" />
+              <paneTree name="Frame_04" />
+              <paneTree name="TextBox_54" />
+              <paneTree name="TextBox_55" />
+              <paneTree name="Picture_07" />
+            </paneTree>
+            <paneTree name="HorizonG_00">
+              <paneTree name="Frame_01" />
+              <paneTree name="Frame_07" />
+              <paneTree name="TextBox_56" />
+              <paneTree name="TextBox_57" />
+              <paneTree name="Picture_08" />
+            </paneTree>
+            <paneTree name="HorizonG_01">
+              <paneTree name="Frame_08" />
+              <paneTree name="Frame_09" />
+              <paneTree name="TextBox_58" />
+              <paneTree name="TextBox_59" />
+              <paneTree name="Picture_09" />
+            </paneTree>
+            <paneTree name="HorizonG_07">
+              <paneTree name="Frame_10" />
+              <paneTree name="Frame_11" />
+              <paneTree name="TextBox_60" />
+              <paneTree name="TextBox_61" />
+              <paneTree name="Picture_10" />
+            </paneTree>
+            <paneTree name="HorizonG_21">
+              <paneTree name="Frame_42" />
+              <paneTree name="Frame_43" />
+              <paneTree name="TextBox_62" />
+              <paneTree name="TextBox_63" />
+              <paneTree name="Picture_11" />
+            </paneTree>
+            <paneTree name="HorizonG_02">
+              <paneTree name="Frame_12" />
+              <paneTree name="Frame_13" />
+              <paneTree name="TextBox_64" />
+              <paneTree name="TextBox_65" />
+              <paneTree name="Picture_12" />
+            </paneTree>
+            <paneTree name="HorizonG_03">
+              <paneTree name="Frame_14" />
+              <paneTree name="Frame_15" />
+              <paneTree name="TextBox_66" />
+              <paneTree name="TextBox_67" />
+              <paneTree name="Picture_13" />
+            </paneTree>
+            <paneTree name="HorizonG_08">
+              <paneTree name="Frame_16" />
+              <paneTree name="Frame_17" />
+              <paneTree name="TextBox_68" />
+              <paneTree name="TextBox_69" />
+              <paneTree name="Picture_14" />
+            </paneTree>
+            <paneTree name="HorizonG_09">
+              <paneTree name="Frame_18" />
+              <paneTree name="Frame_19" />
+              <paneTree name="TextBox_70" />
+              <paneTree name="Picture_15" />
+              <paneTree name="Group_02">
+                <paneTree name="TextBox_71" />
+                <paneTree name="TextBox_72" />
+              </paneTree>
+            </paneTree>
+            <paneTree name="HorizonG_10">
+              <paneTree name="Frame_20" />
+              <paneTree name="Frame_21" />
+              <paneTree name="TextBox_73" />
+              <paneTree name="TextBox_74" />
+              <paneTree name="Picture_16" />
+            </paneTree>
+            <paneTree name="HorizonG_11">
+              <paneTree name="Frame_22" />
+              <paneTree name="Frame_23" />
+              <paneTree name="TextBox_75" />
+              <paneTree name="TextBox_76" />
+              <paneTree name="Picture_17" />
+            </paneTree>
+            <paneTree name="HorizonG_12">
+              <paneTree name="Frame_24" />
+              <paneTree name="Frame_25" />
+              <paneTree name="TextBox_77" />
+              <paneTree name="TextBox_78" />
+              <paneTree name="Picture_18" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="Group_01">
+            <paneTree name="TextBox_37" />
+            <paneTree name="Picture_19" />
+            <paneTree name="TextBox_00" />
+          </paneTree>
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="1739" />
+        <screenBottomMargin>0</screenBottomMargin>
+        <backGround>
+          <color r="197" g="226" b="240" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>2</maxEqualCharSpace>
+        <textBoxCounter>79</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../textures/15_icon_01.tga" />
+      <textureFile imagePath="../textures/15_icon_02.tga" />
+      <textureFile imagePath="../textures/15_icon_03.tga" />
+      <textureFile imagePath="../textures/15_icon_04.tga" />
+      <textureFile imagePath="../textures/15_icon_05.tga" />
+      <textureFile imagePath="../textures/15_icon_06.tga" />
+      <textureFile imagePath="../textures/15_icon_07.tga" />
+      <textureFile imagePath="../textures/15_icon_08.tga" />
+      <textureFile imagePath="../textures/15_icon_09.tga" />
+      <textureFile imagePath="../textures/15_icon_10.tga" />
+      <textureFile imagePath="../textures/15_icon_11.tga" />
+      <textureFile imagePath="../textures/15_icon_12.tga" />
+      <textureFile imagePath="../textures/15_icon_13.tga" />
+      <textureFile imagePath="../textures/15_icon_14.tga" />
+      <textureFile imagePath="../textures/15_icon_15.tga" />
+      <textureFile imagePath="../textures/15_icon_16.tga" />
+      <textureFile imagePath="../textures/15_icon_17.tga" />
+      <textureFile imagePath="../textures/15_icon_18.tga" />
+      <textureFile imagePath="../textures/back_c_01.tga" />
+      <textureFile imagePath="../textures/back_c_02.tga" />
+      <textureFile imagePath="../textures/button_START.tga" />
+      <textureFile imagePath="../textures/hyou_aa_01.tga" />
+      <textureFile imagePath="../textures/hyou_aa_02.tga" />
+      <textureFile imagePath="../textures/hyou_ab_01.tga" />
+      <textureFile imagePath="../textures/hyou_ab_02.tga" />
+      <textureFile imagePath="../textures/hyou_ab_03.tga" />
+      <textureFile imagePath="../textures/hyou_ba_01.tga" />
+      <textureFile imagePath="../textures/hyou_ba_02.tga" />
+      <textureFile imagePath="../textures/hyou_bb_01.tga" />
+      <textureFile imagePath="../textures/hyou_bb_02.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

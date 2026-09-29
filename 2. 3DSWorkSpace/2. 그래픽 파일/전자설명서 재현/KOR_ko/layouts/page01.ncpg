@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2026-09-28T10:11:13.0161086+09:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>사용하기 전에</header>
+      <category />
+      <paneSet>
+        <pane kind="Null" name="Group_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="110" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="162" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="292" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="27" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="928" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="283" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="8" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Null" name="Group_00_0">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="267" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="27" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="60" g="60" b="60" a="255" />
+              <vtxColRT r="60" g="60" b="60" a="255" />
+              <vtxColLB r="60" g="60" b="60" a="255" />
+              <vtxColRB r="60" g="60" b="60" a="255" />
+              <material name="Frame_00C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="LTM_Frame_00" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_00_0">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="283" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="123" g="123" b="123" a="255" />
+              <vtxColRT r="123" g="123" b="123" a="255" />
+              <vtxColLB r="123" g="123" b="123" a="255" />
+              <vtxColRB r="123" g="123" b="123" a="255" />
+              <material name="Frame_00_0C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00_0LT">
+                <texMap imageName="frame_R_gray_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="80" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>사용하기 전에 이 전자설명서를 잘 읽고 올바른 방법으로 사용해 주십시오. 본 소프트웨어는 New 닌텐도 3DS/New 닌텐도 3DS XL로 플레이할 수 있습니다.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00_0">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="24" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="20" y="24" />
+            <text>중요</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00_0" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="22" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="18.3333378" y="22" />
+            <text>&lt;img src=exclamation/&gt; 안전을 위한 주의사항</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_01" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01_0">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="27" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="240" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>본 제품은 저작권에 의해 보호되는 제품입니다. 소프트웨어와 설명서의 무단 복제 및 무단 배포는 법률에 의해 엄중히 금지되어 있습니다. 위반 시 처벌받게 되니 주의해 주십시오. 또한, 이 경고는 저작권법상에서 인정되고 있는 사적 사용을 목적으로 하는 행위를 제한하는 것은 아닙니다.
+본 제품은 한국 사양 본체에서만 사용할 수 있습니다. 법률에서 인정하는 경우를 제외하고는 상업을 목적으로 한 사용은 금지되어 있습니다.</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01_0" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="22" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="140" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>본 소프트웨어를 사용하기 전에 HOME 메뉴의 &lt;img src=safe_icon/&gt;를 선택하여 ｢안전을 위한 주의사항｣의 내용을 확인해 주십시오. 여기에는 고객님의 건강과 안전을 위한 중요한 내용이 기재되어 있습니다.
+또한 본체의 사용설명서도 함께 읽어 주십시오.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_02" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="370" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="22" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="18.3333378" y="22" />
+            <text>&lt;img src=exclamation/&gt; 경고</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_03" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="395" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true" indentEnabled="true" indentText="●">
+            <fontSize x="16.6666679" y="20" />
+            <text>&lt;indent/&gt;게임 카드를 어린이의 손이 닿는 장소에 방치하지 마십시오. 실수로 삼킬 가능성이 있습니다.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_04" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="463" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="22" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="18.3333378" y="22" />
+            <text>사용상의 부탁</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_05" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="488" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="420" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true" indentEnabled="true" indentText="●">
+            <fontSize x="16.6666679" y="20" />
+            <text>&lt;indent/&gt;직사광선에 노출된 장소, 고온 다습한 장소, 먼지나 연기가 많은 장소에서 사용 및 보관하지 마십시오.
+&lt;indent/&gt;플레이 중에 게임 카드를 꽂거나 뽑지 마십시오.
+&lt;indent/&gt;비틀거나 강한 충격을 주는 등 함부로 다루지 마십시오.
+&lt;indent/&gt;의류 등과 함께 실수로 세탁하거나, 액체를 흘리거나, 물에 빠뜨리거나, 젖은 손 및 땀이 난 손으로 만지지 마십시오.
+&lt;indent/&gt;단자부를 손가락 및 금속으로 건드리거나, 입김을 불어 넣거나, 이물질을 넣지 마십시오.
+&lt;indent/&gt;분해하거나 개조하지 마십시오.
+&lt;indent/&gt;시너, 벤진 등의 휘발유, 알코올 등으로 닦지 마십시오. 더러워졌을 때는 마른 천으로 가볍게 닦아 주십시오.
+&lt;indent/&gt;게임 카드, 카드 케이스에는 플라스틱, 금속 부품이 포함되어 있습니다. 폐기할 경우에는 거주지의 분리수거 규정에 따라 폐기해 주십시오.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_06" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_06_0">
+          <basePositionType x="Left" y="Top" />
+          <translate x="4" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="296" y="22" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="18.3333378" y="22" />
+            <text>게임 카드에 관한 주의사항</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_06_0" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="322" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="40" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>게임 카드를 이용할 경우에는 다음 사항에 주의해 주십시오.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_07" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1231" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="40" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>©2010-2015 Nintendo /MONOLITHSOFT</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_08" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1274" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="80" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>Trademarks are property of their respective owners.
+Nintendo 3DS is a trademark of Nintendo.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_09" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1357" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>KTR-P-CAFK-00</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_10" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="TextBox_00" />
+          <paneTree name="Group_00">
+            <paneTree name="TextBox_01" />
+            <paneTree name="TextBox_02" />
+          </paneTree>
+          <paneTree name="TextBox_07" />
+          <paneTree name="HorizonG_00">
+            <paneTree name="Frame_00" />
+            <paneTree name="TextBox_06_0" />
+          </paneTree>
+          <paneTree name="TextBox_03" />
+          <paneTree name="TextBox_04" />
+          <paneTree name="TextBox_05" />
+          <paneTree name="TextBox_06" />
+          <paneTree name="HorizonG_01">
+            <paneTree name="Frame_00_0" />
+            <paneTree name="Group_00_0">
+              <paneTree name="TextBox_01_0" />
+              <paneTree name="TextBox_00_0" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="TextBox_08" />
+          <paneTree name="TextBox_09" />
+          <paneTree name="TextBox_10" />
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="1387" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>2</maxEqualCharSpace>
+        <textBoxCounter>13</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../textures/exclamation.tga" />
+      <textureFile imagePath="../textures/frame_R_gray_01.tga" />
+      <textureFile imagePath="../textures/safe_icon.tga" />
+      <fontFile path="cbf_ko-Hang-KR.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

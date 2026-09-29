@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2026-09-28T10:41:54.8896594+09:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>보호자 여러분께</header>
+      <category />
+      <paneSet>
+        <pane kind="Null" name="Group_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="153" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="80" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>어린이 및 청소년의 사용을 제한하고자 할 경우에는 ｢청소년 보호 기능｣에서 항목을 선택해 주십시오. 본 소프트웨어에서는 다음의 내용을 제한할 수 있습니다.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="90" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="305" y="60" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true" indentEnabled="true" indentText="※">
+            <fontSize x="16.6666679" y="20" />
+            <text>&lt;indent/&gt;｢청소년 보호 기능｣의 설정 방법에 관한 내용은 본체 사용설명서를 읽어 주십시오.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true" indentEnabled="true" indentText="●">
+            <fontSize x="16.6666679" y="20" />
+            <text>&lt;indent/&gt;다른 유저와의 엇갈림 통신</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_12" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="16" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="40" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>엇갈림 통신으로 토큰(→18)을 늘리는 기능을 제한할 수 있습니다.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_13" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="TextBox_00" />
+          <paneTree name="TextBox_01" />
+          <paneTree name="Group_05">
+            <paneTree name="TextBox_12" />
+            <paneTree name="TextBox_13" />
+          </paneTree>
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="223" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>2</maxEqualCharSpace>
+        <textBoxCounter>14</textBoxCounter>
+      </screenSetting>
+      <fontFile path="cbf_ko-Hang-KR.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

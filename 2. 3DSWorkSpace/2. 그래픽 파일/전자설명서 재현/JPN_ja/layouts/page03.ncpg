@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nintendo.co.jp/sdd/2010/page" version="1.2.1">
+  <head>
+    <create user="" host="" date="2026-09-13T22:10:57.632183+09:00" source="BCMA Workshop generic reconstruction" />
+    <title />
+    <comment />
+    <generator name="BCMA Workshop Reconstructor" version="0.3.1-framefix" />
+  </head>
+  <body>
+    <ncpg>
+      <header>保護者の方へ</header>
+      <category />
+      <paneSet>
+        <pane kind="Null" name="Group_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="181" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="120" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="96" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>お子様の使用を制限したい場合は、「保護者による使用制限」で項目を選んでください。このソフトでは、以下の内容を制限できます。</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="106" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="72" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="※">
+            <fontSize x="16.666667" y="20" />
+            <text>&lt;indent/&gt;「保護者による使用制限」の設定方法は、本体の取扱説明書をお読みください。</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="●">
+            <fontSize x="16.666667" y="20" />
+            <text>&lt;indent/&gt;他のユーザーとのすれちがい通信</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_12" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="16" y="48" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="72" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>すれちがい通信でトークン（→18）を増やす機能を制限できます。</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_13" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="TextBox_00" />
+          <paneTree name="TextBox_01" />
+          <paneTree name="Group_05">
+            <paneTree name="TextBox_12" />
+            <paneTree name="TextBox_13" />
+          </paneTree>
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="311" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>2</maxEqualCharSpace>
+        <textBoxCounter>14</textBoxCounter>
+      </screenSetting>
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

@@ -1,0 +1,506 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nintendo.co.jp/sdd/2010/page" version="1.2.1">
+  <head>
+    <create user="" host="" date="2026-09-13T22:10:57.646218+09:00" source="BCMA Workshop generic reconstruction" />
+    <title />
+    <comment />
+    <generator name="BCMA Workshop Reconstructor" version="0.3.1-framefix" />
+  </head>
+  <body>
+    <ncpg>
+      <header>セーブデータの管理</header>
+      <category />
+      <paneSet>
+        <pane kind="Null" name="Group_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="30" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="205.599991" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="33" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="245.599991" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="114.599991" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="32.999985" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="370.199982" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="299.999969" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="33" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="680.199951" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="472" />
+          <horizontalCombinedGroup>
+            <margin t="7" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Picture" name="Picture_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="111" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_00">
+              <texMap imageName="back_c_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="268" y="39" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1.2" y="1.2" />
+          <size x="26" y="23" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_06">
+              <texMap imageName="07_icon_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="29" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_02">
+              <texMap imageName="midashi_M" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="268" y="38.999985" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1.2" y="1.2" />
+          <size x="26" y="23" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_08">
+              <texMap imageName="07_icon_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="29" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_03">
+              <texMap imageName="midashi_M" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="29" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_04">
+              <texMap imageName="midashi_M" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="1132.199951" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="73" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_01">
+              <texMap imageName="back_c_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_31">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="472" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="184" g="157" b="93" a="255" />
+              <vtxColRT r="184" g="157" b="93" a="255" />
+              <vtxColLB r="184" g="157" b="93" a="255" />
+              <vtxColRB r="184" g="157" b="93" a="255" />
+              <material name="Frame_31C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_31LT">
+                <texMap imageName="kakomi_b_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_31RT">
+                <texMap imageName="kakomi_b_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_31LB">
+                <texMap imageName="kakomi_b_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_31RB">
+                <texMap imageName="kakomi_b_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_40">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="233.999969" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="66" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="※">
+            <fontSize x="15" y="18" />
+            <text>&lt;indent/&gt;データを削除するときは、内容を十分にご確認ください。削除したデータは元に戻せません。</text>
+            <topColor r="255" g="90" b="20" a="255" />
+            <bottomColor r="255" g="90" b="20" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_40" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_41">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="39" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="75.599998" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>メニューの（システム）で（セーブ）を選び、データを保存します。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_41">
+              <texMap imageName="06_icon_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>true</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>98</texOffsetLeft>
+            <texOffsetRight>12</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>3</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_42">
+          <basePositionType x="Left" y="Top" />
+          <translate x="34" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="207" y="26" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="18.333337" y="22" />
+            <text>データのセーブ</text>
+            <topColor r="0" g="125" b="225" a="255" />
+            <bottomColor r="0" g="125" b="225" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_42" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_43">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="117.600006" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="88" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="※">
+            <fontSize x="15" y="18" />
+            <text>&lt;indent/&gt;セーブデータは3つまで作成できます。
+&lt;indent/&gt;場所によっては、セーブができないこともあります。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_43" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_44">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="38.999985" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="75.599998" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>メニューの（システム）で（ロード）を選ぶと、セーブした場所から再開できます。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_44">
+              <texMap imageName="06_icon_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>true</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>98</texOffsetLeft>
+            <texOffsetRight>12</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>3</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_45">
+          <basePositionType x="Left" y="Top" />
+          <translate x="34" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="207" y="26" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="18.333337" y="22" />
+            <text>データのロード</text>
+            <topColor r="0" g="125" b="225" a="255" />
+            <bottomColor r="0" g="125" b="225" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_45" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_47">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="39" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="192" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>データのセーブやロードをするときに&lt;img src=button_ZR/&gt;を押すと、選択中のデータを削除できます。ソフトの起動後、ニンテンドー3DSのロゴの表示が消えてからタイトル画面が表示されるまでの間に、＋＋＋を同時に押し続けると、すべてのセーブデータを削除できます。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_47" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_48">
+          <basePositionType x="Left" y="Top" />
+          <translate x="34" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="207" y="26" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="18.333337" y="22" />
+            <text>データの削除</text>
+            <topColor r="0" g="125" b="225" a="255" />
+            <bottomColor r="0" g="125" b="225" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_48" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_50">
+          <basePositionType x="Left" y="Top" />
+          <translate x="14" y="7" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="272" y="456" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="●">
+            <fontSize x="16.666667" y="20" />
+            <text>&lt;indent/&gt;むやみに電源をON/OFFする、データのセーブ中にゲームカードやSDカードを抜き差しする、操作の誤り、端子部の汚れなどの原因によってデータが消えてしまった場合、復元はできません。ご了承ください。
+&lt;indent/&gt;セーブデータを改造する装置の使用は、ゲームを正常に進められなくなったり、セーブデータが壊れたり消えたりする原因となりますので、絶対におやめください。万一このような装置を使用してセーブデータを改造された場合には、改造する前の状態に復元することはできませんので、十分にご注意ください。</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_50" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="Picture_00" />
+          <paneTree name="Group_00">
+            <paneTree name="TextBox_41" />
+            <paneTree name="Picture_06" />
+            <paneTree name="Group_07">
+              <paneTree name="Picture_02" />
+              <paneTree name="TextBox_42" />
+            </paneTree>
+            <paneTree name="TextBox_43" />
+          </paneTree>
+          <paneTree name="Group_01">
+            <paneTree name="TextBox_44" />
+            <paneTree name="Picture_08" />
+            <paneTree name="Group_02">
+              <paneTree name="Picture_03" />
+              <paneTree name="TextBox_45" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="Group_03">
+            <paneTree name="TextBox_40" />
+            <paneTree name="TextBox_47" />
+            <paneTree name="Group_04">
+              <paneTree name="Picture_04" />
+              <paneTree name="TextBox_48" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="Picture_01" />
+          <paneTree name="HorizonG_13">
+            <paneTree name="Frame_31" />
+            <paneTree name="TextBox_50" />
+          </paneTree>
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="1205" />
+        <screenBottomMargin>0</screenBottomMargin>
+        <backGround>
+          <color r="197" g="226" b="240" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>2</maxEqualCharSpace>
+        <textBoxCounter>51</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../textures/06_icon_01.tga" />
+      <textureFile imagePath="../textures/07_icon_01.tga" />
+      <textureFile imagePath="../textures/07_icon_02.tga" />
+      <textureFile imagePath="../textures/back_c_01.tga" />
+      <textureFile imagePath="../textures/back_c_02.tga" />
+      <textureFile imagePath="../textures/button_ZR.tga" />
+      <textureFile imagePath="../textures/kakomi_b_01.tga" />
+      <textureFile imagePath="../textures/kakomi_b_02.tga" />
+      <textureFile imagePath="../textures/midashi_M.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

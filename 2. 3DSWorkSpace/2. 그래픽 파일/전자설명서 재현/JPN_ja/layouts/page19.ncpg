@@ -1,0 +1,614 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nintendo.co.jp/sdd/2010/page" version="1.2.1">
+  <head>
+    <create user="" host="" date="2026-09-13T22:10:57.781182+09:00" source="BCMA Workshop generic reconstruction" />
+    <title />
+    <comment />
+    <generator name="BCMA Workshop Reconstructor" version="0.3.1-framefix" />
+  </head>
+  <body>
+    <ncpg>
+      <header>お問い合わせ先</header>
+      <category>困ったときは</category>
+      <paneSet>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="53" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="355" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="53" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="408" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="290" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="8" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Null" name="Group_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="274" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="63" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="282" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="8" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Null" name="Group_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="266" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="28" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="34" />
+          <horizontalCombinedGroup>
+            <margin t="0" b="0" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Null" name="Group_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="13" y="703" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="60" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="53" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="30" g="30" b="30" a="255" />
+              <vtxColRT r="30" g="30" b="30" a="255" />
+              <vtxColLB r="30" g="30" b="30" a="255" />
+              <vtxColRB r="30" g="30" b="30" a="255" />
+              <material name="Frame_00C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="LTM_Frame_00" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="53" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="30" g="30" b="30" a="255" />
+              <vtxColRT r="30" g="30" b="30" a="255" />
+              <vtxColLB r="30" g="30" b="30" a="255" />
+              <vtxColRB r="30" g="30" b="30" a="255" />
+              <material name="Frame_04C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="LTM_Frame_04" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="290" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="235" g="235" b="210" a="255" />
+              <vtxColRT r="235" g="235" b="210" a="255" />
+              <vtxColLB r="235" g="235" b="210" a="255" />
+              <vtxColRB r="235" g="235" b="210" a="255" />
+              <material name="Frame_03C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="LTM_Frame_03" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="28" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="48" y="34" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_00">
+              <texMap imageName="navi" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="282" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="235" g="235" b="210" a="255" />
+              <vtxColRT r="235" g="235" b="210" a="255" />
+              <vtxColLB r="235" g="235" b="210" a="255" />
+              <vtxColRB r="235" g="235" b="210" a="255" />
+              <material name="Frame_02C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="LTM_Frame_02" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="48" y="34" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_01">
+              <texMap imageName="navi" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="124" y="16" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_02">
+              <texMap imageName="NintendoSyameiLogo_Gray_RGB_A4" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="4" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="296" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>商品･販売･取り扱いに関するお問い合わせ</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="4" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="296" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>修理に関するお問い合わせ･送り先</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>お客様ご相談窓口</text>
+            <topColor r="20" g="20" b="20" a="255" />
+            <bottomColor r="20" g="20" b="20" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_02" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="54" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="240" y="28" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="20" y="24" />
+            <text>0570-011-120</text>
+            <topColor r="20" g="20" b="20" a="255" />
+            <bottomColor r="20" g="20" b="20" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_03" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="65" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true">
+            <fontSize x="16.66667" y="20" />
+            <text>IP電話からは &lt;color rgb=141414&gt;075 - 662 - 9611&lt;/color&gt; におかけください。</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_04" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="118" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="※" notMagnify="true">
+            <fontSize x="16.66667" y="20" />
+            <text>&lt;indent/&gt;電話番号はよく確かめて、お間違いのないようにお願いいたします。</text>
+            <topColor r="255" g="120" b="20" a="255" />
+            <bottomColor r="255" g="120" b="20" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_05" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="158" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="※" notMagnify="true">
+            <fontSize x="16.66667" y="20" />
+            <text>&lt;indent/&gt;攻略情報についてはお答えをしておりません。</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_06" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="206" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true">
+            <fontSize x="16.66667" y="20" />
+            <text>電話受付時間　月～金：10:00～18:00 (土、日、祝日、会社設定休日を除く)</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_07" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666667" y="20" />
+            <text>任天堂サービスセンター</text>
+            <topColor r="20" g="20" b="20" a="255" />
+            <bottomColor r="20" g="20" b="20" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_09" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="54" y="33" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="240" y="28" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="20" y="24" />
+            <text>0570-021-010</text>
+            <topColor r="20" g="20" b="20" a="255" />
+            <bottomColor r="20" g="20" b="20" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_10" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="65" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true">
+            <fontSize x="16.66667" y="20" />
+            <text>IP電話からは &lt;color rgb=141414&gt;0774 - 28 - 3133&lt;/color&gt; におかけください。</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_11" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="118" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="※" notMagnify="true">
+            <fontSize x="16.66667" y="20" />
+            <text>&lt;indent/&gt;電話番号はよく確かめて、お間違いのないようにお願いいたします。</text>
+            <topColor r="255" g="120" b="20" a="255" />
+            <bottomColor r="255" g="120" b="20" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_12" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="166" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true">
+            <fontSize x="16.66667" y="20" />
+            <text>電話受付時間　10:00～18:00 (祝日、会社設定休日を除く)</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_13" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="234" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true">
+            <fontSize x="16.66667" y="20" />
+            <text>〒611-0042 京都府宇治市小倉町神楽田56番地 任天堂サービスセンター</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_14" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="294" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true">
+            <fontSize x="16.66667" y="20" />
+            <text>〒601-8501 京都市南区上鳥羽鉾立町11番地1</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_15" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="HorizonG_00">
+            <paneTree name="Frame_00" />
+            <paneTree name="TextBox_00" />
+          </paneTree>
+          <paneTree name="HorizonG_01">
+            <paneTree name="Frame_04" />
+            <paneTree name="TextBox_01" />
+          </paneTree>
+          <paneTree name="HorizonG_03">
+            <paneTree name="Frame_03" />
+            <paneTree name="Group_00">
+              <paneTree name="TextBox_09" />
+              <paneTree name="TextBox_11" />
+              <paneTree name="TextBox_12" />
+              <paneTree name="TextBox_13" />
+              <paneTree name="TextBox_14" />
+              <paneTree name="Picture_00" />
+              <paneTree name="TextBox_10" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="HorizonG_04">
+            <paneTree name="Frame_02" />
+            <paneTree name="Group_02">
+              <paneTree name="TextBox_02" />
+              <paneTree name="TextBox_04" />
+              <paneTree name="TextBox_05" />
+              <paneTree name="TextBox_06" />
+              <paneTree name="TextBox_07" />
+              <paneTree name="HorizonG_02">
+                <paneTree name="Picture_01" />
+                <paneTree name="TextBox_03" />
+              </paneTree>
+            </paneTree>
+          </paneTree>
+          <paneTree name="Group_01">
+            <paneTree name="TextBox_15" />
+            <paneTree name="Picture_02" />
+          </paneTree>
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="773" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>2</maxEqualCharSpace>
+        <textBoxCounter>16</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../textures/NintendoSyameiLogo_Gray_RGB_A4.tga" />
+      <textureFile imagePath="../textures/navi.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

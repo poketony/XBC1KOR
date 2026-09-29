@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nintendo.co.jp/sdd/2010/page" version="1.2.1">
+  <head>
+    <create user="" host="" date="2026-09-13T22:10:57.634190+09:00" source="BCMA Workshop generic reconstruction" />
+    <title />
+    <comment />
+    <generator name="BCMA Workshop Reconstructor" version="0.3.1-framefix" />
+  </head>
+  <body>
+    <ncpg>
+      <header>プロローグ</header>
+      <category>はじめに</category>
+      <paneSet>
+        <pane kind="Picture" name="Picture_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="142" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_00">
+              <texMap imageName="back_a_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="947" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="250" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_01">
+              <texMap imageName="back_a_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="14" y="64" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="292" y="946" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="15" y="18" />
+            <text>これは、異なる次元、異なる時間、異なる一つの宇宙の物語――静謐［せいひつ］な果てない海と、どこまでも尽きない空だけの世界が在った。ある時、世界に大きな変化が生まれた。巨神と機神――泡が弾けるかのごとく、突如として世界に出現した二柱の神は、己が存在のすべてを賭けて戦った。二つの神が打ち鳴らす大剣の響きは、海原を揺らし、大気を震わせた。両者は残された力を大剣の一閃［いっせん］に託し、相打ち合い――やがて骸［むくろ］となった。それから幾万の昼と夜を経た現在。巨神界に暮らす人族――ホムスたちは存亡の危機に立たされていた。機神界からの突如の侵攻。鋼鉄の装甲を身に纏［まと］った戦闘機械――機神兵たちは、ホムスたちをまるで喰［く］らうかのごとく、問答無用の殺戮［さつりく］を繰り広げた。だがホムスたちも、黙って喰われるだけの存在では終わらなかった。かつて機神を討ち果たしたとされる伝説の光剣『モナド』が彼らの手にあったのだ。モナドを携えるホムス軍の英雄ダンバンが戦場を駆け、数多の機神兵たちを両断していった。だがダンバンも無事では済まなかった。モナドのあり余る力は、彼の肉体を蝕［むしば］んでいたのだ。軋［きし］む肉体に鞭［むち］を打ち、ダンバンが放った最後の一撃は光の奔流を生み、飲み込まれた機神兵たちは消え去っていった。ホムスの存亡を賭けた激戦から一年余――ここに新たな創世神話が紐解［ひもと］かれる。</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="Picture_00" />
+          <paneTree name="TextBox_00" />
+          <paneTree name="Picture_01" />
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="1197" />
+        <screenBottomMargin>0</screenBottomMargin>
+        <backGround>
+          <color r="206" g="223" b="189" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>2</maxEqualCharSpace>
+        <textBoxCounter>1</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../textures/back_a_01.tga" />
+      <textureFile imagePath="../textures/back_a_02.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

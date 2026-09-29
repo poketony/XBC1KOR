@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2026-09-28T23:07:54.6622222+09:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>이럴 때는 어떻게 하나요? Q＆A</header>
+      <category />
+      <paneSet>
+        <pane kind="Null" name="Group_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="63" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="154" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="49" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="29" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="232" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="174" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="48" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="29" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="421" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="179" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="29" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="29" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="615" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="216" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="29" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="29" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="846" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="187" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="48" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="29" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Picture" name="Picture_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="85" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_00">
+              <texMap imageName="back_d_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="28" y="29" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_03">
+              <texMap imageName="icon_Q" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="27" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="2" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="199" b="1" a="255" />
+              <vtxColRT r="255" g="199" b="1" a="255" />
+              <vtxColLB r="255" g="199" b="1" a="255" />
+              <vtxColRB r="255" g="199" b="1" a="255" />
+              <material name="Frame_00C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="LTM_Frame_00" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="28" y="29" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_04">
+              <texMap imageName="icon_Q" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="27" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="2" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="199" b="1" a="255" />
+              <vtxColRT r="255" g="199" b="1" a="255" />
+              <vtxColLB r="255" g="199" b="1" a="255" />
+              <vtxColRB r="255" g="199" b="1" a="255" />
+              <material name="Frame_03C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="LTM_Frame_03" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_10" hidden="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="153" y="29" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="27" y="23" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_10">
+              <texMap imageName="17_icon_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="28" y="29" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_05">
+              <texMap imageName="icon_Q" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="27" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="2" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="199" b="1" a="255" />
+              <vtxColRT r="255" g="199" b="1" a="255" />
+              <vtxColLB r="255" g="199" b="1" a="255" />
+              <vtxColRB r="255" g="199" b="1" a="255" />
+              <material name="Frame_05C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="LTM_Frame_05" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_12" hidden="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="76" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="27" y="23" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_12">
+              <texMap imageName="17_icon_04" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="28" y="29" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_06">
+              <texMap imageName="icon_Q" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="27" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="2" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="199" b="1" a="255" />
+              <vtxColRT r="255" g="199" b="1" a="255" />
+              <vtxColLB r="255" g="199" b="1" a="255" />
+              <vtxColRB r="255" g="199" b="1" a="255" />
+              <material name="Frame_08C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="LTM_Frame_08" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="1017" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="136" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_01">
+              <texMap imageName="back_d_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="28" y="29" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_02">
+              <texMap imageName="icon_Q" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="27" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="2" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="199" b="1" a="255" />
+              <vtxColRT r="255" g="199" b="1" a="255" />
+              <vtxColLB r="255" g="199" b="1" a="255" />
+              <vtxColRB r="255" g="199" b="1" a="255" />
+              <material name="Frame_02C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="LTM_Frame_02" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="35" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="265" y="44" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="18.3333378" y="22" />
+            <text>아군의 공격이 기신병에게 통하지 않습니다!</text>
+            <topColor r="255" g="230" b="80" a="255" />
+            <bottomColor r="255" g="230" b="80" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_02" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="52" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="63" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>모나드 아츠 &lt;img src=17_icon_01/&gt;(인챈트)를 쓰면 아군도 기신병에게 유효한 공격을 할 수 있게 됩니다.</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_06">
+              <texMap imageName="17_icon_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>RightTop</texLayoutPosition>
+            <texOffsetLeft>10</texOffsetLeft>
+            <texOffsetRight>124.799995</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>10</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="118" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="36" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true" indentEnabled="true" indentText="※">
+            <fontSize x="15" y="18" />
+            <text>&lt;indent/&gt;인챈트의 효과는 시간이 지나면 사라지게 됩니다.</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_11" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="52" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="83" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>동료와 파란 선으로 연결되어 있을 때, &lt;img src=14_icon_01/&gt;을 선택해서 체인 어택(→14)을 발동시켜 봅시다. 브레이크해서 다운시키면 효과적인 공격을 할 수 있습니다.</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_12">
+              <texMap imageName="14_icon_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>76</texOffsetLeft>
+            <texOffsetRight>12</texOffsetRight>
+            <texOffsetTop>24</texOffsetTop>
+            <texOffsetBottom>3</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="35" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="265" y="44" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="18.3333378" y="22" />
+            <text>모나드로 하는 공격이 통하지 않습니다!</text>
+            <topColor r="255" g="230" b="80" a="255" />
+            <bottomColor r="255" g="230" b="80" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_13" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="138" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="36" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true" indentEnabled="true" indentText="※">
+            <fontSize x="15" y="18" />
+            <text>&lt;indent/&gt;동료끼리 인연이 깊을수록 체인 어택이 발동하기 쉬워집니다.</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_14" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="36" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="143" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>오토 어택 대미지나 근력이 상승하는 장비품을 장착(→11)하고, 아츠는 메뉴에 있는 &lt;img src=17_icon_02/&gt;(배틀 세팅)에서 &lt;img src=17_icon_03/&gt;(아츠 세팅)을 선택해 레벨 업해 주십시오. 파티의 레벨을 올리는 것도 효과적입니다. 적보다 레벨이 3 이상 높으면 유리하게 싸울 수 있습니다.</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_15">
+              <texMap imageName="17_icon_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>RightTop</texLayoutPosition>
+            <texOffsetLeft>10</texOffsetLeft>
+            <texOffsetRight>95.6</texOffsetRight>
+            <texOffsetTop>48</texOffsetTop>
+            <texOffsetBottom>10</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_16">
+          <basePositionType x="Left" y="Top" />
+          <translate x="35" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="265" y="22" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="18.3333378" y="22" />
+            <text>몇 번을 해도 못 이기겠습니다!</text>
+            <topColor r="255" g="230" b="80" a="255" />
+            <bottomColor r="255" g="230" b="80" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_16" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="36" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="123" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>메뉴에 있는 &lt;img src=17_icon_02/&gt;(배틀 세팅)에서 &lt;img src=17_icon_04/&gt;(스킬 트리)를 선택해서 설정합니다. 선택한 스킬 라인(성격)에 따라 다양한 스킬을 습득할 수 있습니다. 인연 코인(→13)을 쓰면 다른 동료가 습득한 스킬을 사용할 수도 있습니다.</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_18">
+              <texMap imageName="17_icon_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>95</texOffsetLeft>
+            <texOffsetRight>12</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>3</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="35" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="265" y="22" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="18.3333378" y="22" />
+            <text>스킬은 어떻게 장비하나요?</text>
+            <topColor r="255" g="230" b="80" a="255" />
+            <bottomColor r="255" g="230" b="80" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_19" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_20">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="162" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="54" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true" indentEnabled="true" indentText="※">
+            <fontSize x="15" y="18" />
+            <text>&lt;indent/&gt;예를 들어 라인의 ｢공격 소질｣은 장비한 무기의 공격력이 상승하고, 슈르크의 ｢치유 지식｣은 회복 아츠의 회복량이 상승합니다.</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_20" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_21">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="52" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="60" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="16.6666679" y="20" />
+            <text>몬스터의 뒤에서 슈르크의 ｢백 슬래시｣를 발동하는 등 아츠 특효를 발생시키면 파티 게이지가 올라갑니다.</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_21" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_22">
+          <basePositionType x="Left" y="Top" />
+          <translate x="35" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="265" y="44" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="18.3333378" y="22" />
+            <text>파티 게이지가 좀처럼 오르지 않습니다!</text>
+            <topColor r="255" g="230" b="80" a="255" />
+            <bottomColor r="255" g="230" b="80" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_22" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_23">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="115" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="300" y="72" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true" indentEnabled="true" indentText="※">
+            <fontSize x="15" y="18" />
+            <text>&lt;indent/&gt;특효가 발생하는 조건은 아츠 설명에 빨간 글씨로 적혀 있습니다.
+&lt;indent/&gt;돌발 인연에 성공했을 때도 파티 게이지가 올라갑니다.</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_23" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Picture" name="Picture_07" hidden="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="26" y="23" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_07">
+              <texMap imageName="17_icon_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_08" hidden="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="14" y="109" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="26" y="23" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_08">
+              <texMap imageName="14_icon_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="Picture_00" />
+          <paneTree name="Group_02">
+            <paneTree name="TextBox_06" />
+            <paneTree name="Group_01">
+              <paneTree name="Group_00">
+                <paneTree name="Picture_03" />
+                <paneTree name="Frame_00" />
+              </paneTree>
+              <paneTree name="TextBox_02" />
+            </paneTree>
+            <paneTree name="TextBox_11" />
+          </paneTree>
+          <paneTree name="Group_03">
+            <paneTree name="TextBox_12" />
+            <paneTree name="Group_05">
+              <paneTree name="Group_08">
+                <paneTree name="Picture_04" />
+                <paneTree name="Frame_03" />
+              </paneTree>
+              <paneTree name="TextBox_13" />
+            </paneTree>
+            <paneTree name="TextBox_14" />
+          </paneTree>
+          <paneTree name="Group_09">
+            <paneTree name="TextBox_15" />
+            <paneTree name="Picture_10" />
+            <paneTree name="Group_10">
+              <paneTree name="Group_11">
+                <paneTree name="Picture_05" />
+                <paneTree name="Frame_05" />
+              </paneTree>
+              <paneTree name="TextBox_16" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="Group_12">
+            <paneTree name="TextBox_18" />
+            <paneTree name="Picture_12" />
+            <paneTree name="Group_13">
+              <paneTree name="Group_14">
+                <paneTree name="Picture_06" />
+                <paneTree name="Frame_08" />
+              </paneTree>
+              <paneTree name="TextBox_19" />
+            </paneTree>
+            <paneTree name="TextBox_20" />
+          </paneTree>
+          <paneTree name="Picture_01" />
+          <paneTree name="Group_04">
+            <paneTree name="TextBox_21" />
+            <paneTree name="Group_06">
+              <paneTree name="Group_07">
+                <paneTree name="Picture_02" />
+                <paneTree name="Frame_02" />
+              </paneTree>
+              <paneTree name="TextBox_22" />
+            </paneTree>
+            <paneTree name="TextBox_23" />
+          </paneTree>
+          <paneTree name="Picture_07" />
+          <paneTree name="Picture_08" />
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="1153" />
+        <screenBottomMargin>0</screenBottomMargin>
+        <backGround>
+          <color r="205" g="115" b="35" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>2</maxEqualCharSpace>
+        <textBoxCounter>24</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../textures/17_icon_02.tga" />
+      <textureFile imagePath="../textures/17_icon_03.tga" />
+      <textureFile imagePath="../textures/17_icon_04.tga" />
+      <textureFile imagePath="../textures/back_d_01.tga" />
+      <textureFile imagePath="../textures/back_d_02.tga" />
+      <textureFile imagePath="../textures/icon_Q.tga" />
+      <textureFile imagePath="../../JPN_ja/textures/17_icon_01.tga" />
+      <textureFile imagePath="../../JPN_ja/textures/14_icon_01.tga" />
+      <fontFile path="cbf_ko-Hang-KR.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

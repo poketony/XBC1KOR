@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2026-09-28T11:05:13.7645085+09:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>프롤로그</header>
+      <category>시작하기 전에</category>
+      <paneSet>
+        <pane kind="Picture" name="Picture_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="142" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_00">
+              <texMap imageName="back_a_01" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="626" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="250" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_01">
+              <texMap imageName="back_a_02" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="14" y="64" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="292" y="558" />
+          <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
+            <fontSize x="15" y="18" />
+            <text>이것은 다른 차원, 다른 시간, 다른 우주의 이야기. 고요하고 끝없이 펼쳐진 바다와 하늘만이 존재하는 세계가 있었다. 
+어느 날, 그 세계에 커다란 변화가 일어났다. 거신과 기신, 거품이 터지듯 홀연히 세계에 나타난 두 신은 자신이 지닌 모든 것을 걸고 싸웠다. 
+두 신의 대검이 맞부딪치는 소리는 바다를 뒤흔들고 대기를 진동시켰다. 두 신은 남은 힘을 대검의 일격에 실어 서로를 베었고, 이윽고 유해가 되었다.
+그로부터 무수한 낮과 밤이 흐른 지금. 거신계에 사는 인간족인 홈스는 존망의 위기에 내몰려 있었다. 
+기신계로부터의 갑작스러운 침공. 강철 장갑을 두른 전투 기계인 기신병은 홈스를 잡아먹기라도 하듯 가차 없는 살육을 벌였다. 
+그러나 홈스도 잠자코 잡아먹히고 있지만은 않았다. 한때 기신을 쓰러뜨렸다고 전해지는 전설의 신검 『모나드』가 그들의 손에 있었던 것이다. 
+모나드를 손에 든 홈스군의 영웅 단반은 전장을 누비며 수많은 기신병을 두 동강 내고 있었다. 하지만 단반 역시 무사하지는 못했다. 모나드의 넘쳐나는 힘이 그의 육체를 좀먹고 있었던 것이다. 
+삐걱대는 몸을 채찍질하며 단반이 날린 마지막 일격은 빛의 격류를 일으켰고, 그 빛에 삼켜진 기신병들은 사라져 갔다. 
+홈스의 존망을 건 격전으로부터 1년, 여기에 새로운 창세 신화가 펼쳐진다.</text>
+            <topColor r="100" g="50" b="0" a="255" />
+            <bottomColor r="100" g="50" b="0" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="Picture_00" />
+          <paneTree name="TextBox_00" />
+          <paneTree name="Picture_01" />
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="876" />
+        <screenBottomMargin>0</screenBottomMargin>
+        <backGround>
+          <color r="206" g="223" b="189" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>2</maxEqualCharSpace>
+        <textBoxCounter>1</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../textures/back_a_01.tga" />
+      <textureFile imagePath="../textures/back_a_02.tga" />
+      <fontFile path="cbf_ko-Hang-KR.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

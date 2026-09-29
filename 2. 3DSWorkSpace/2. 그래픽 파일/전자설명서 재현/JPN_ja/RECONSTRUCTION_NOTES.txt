@@ -1,0 +1,3 @@
+BCMA Workshop generic source reconstruction.
+Grouping, whitespace, font inversion and corner margins include heuristics.
+The NCPG is editable but not certified source-equivalent.

@@ -1,0 +1,20 @@
+{
+  "version": "0.3.1-framefix",
+  "input_sha256": "0f26cda2a89687a67d22e4cc9a98f27bb7d51066df11d3b24169d4495187c7d9",
+  "locales": [
+    "JPN_ja"
+  ],
+  "profile": null,
+  "category_mode": "Index object boundary; blank continuation",
+  "line_flow": "editable",
+  "reports": [
+    {
+      "prefix": "JPN_ja",
+      "pages": 19,
+      "textures": 167,
+      "groups": 335,
+      "inline": 20
+    }
+  ],
+  "qualification": "Generic inferred authoring project; not exact lost source or CTR round-trip certified"
+}
