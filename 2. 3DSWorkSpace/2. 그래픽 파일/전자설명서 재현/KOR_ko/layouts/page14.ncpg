@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
   <head>
-    <create user="" host="" date="2026-09-28T22:57:38.9323858+09:00" source="" />
+    <create user="" host="" date="2026-09-30T00:58:02.3165843+09:00" source="" />
     <title />
     <comment />
     <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
@@ -894,7 +894,7 @@
         </pane>
         <pane kind="Window" name="Frame_15">
           <basePositionType x="Left" y="Top" />
-          <translate x="138" y="6" z="0" />
+          <translate x="138" y="3" z="0" />
           <rotate x="0" y="0" z="0" />
           <scale x="1" y="1" />
           <size x="162" y="101.684921" />

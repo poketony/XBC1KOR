@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
   <head>
-    <create user="" host="" date="2026-09-28T11:26:30.0485042+09:00" source="" />
+    <create user="" host="" date="2026-09-30T01:03:17.5220496+09:00" source="" />
     <title />
     <comment />
     <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
@@ -232,7 +232,7 @@
               </material>
             </frame>
             <frame frameType="CornerRB">
-              <textureFlip>None</textureFlip>
+              <textureFlip>Rotate180</textureFlip>
               <material name="Frame_00RB">
                 <texMap imageName="characters_frame_01" />
               </material>
@@ -274,7 +274,7 @@
               </material>
             </frame>
             <frame frameType="CornerRB">
-              <textureFlip>None</textureFlip>
+              <textureFlip>Rotate180</textureFlip>
               <material name="Frame_01RB">
                 <texMap imageName="characters_frame_01" />
               </material>
@@ -333,7 +333,7 @@
               </material>
             </frame>
             <frame frameType="CornerRB">
-              <textureFlip>None</textureFlip>
+              <textureFlip>Rotate180</textureFlip>
               <material name="Frame_06RB">
                 <texMap imageName="characters_frame_01" />
               </material>
@@ -392,7 +392,7 @@
               </material>
             </frame>
             <frame frameType="CornerRB">
-              <textureFlip>None</textureFlip>
+              <textureFlip>Rotate180</textureFlip>
               <material name="Frame_04RB">
                 <texMap imageName="characters_frame_01" />
               </material>
@@ -434,7 +434,7 @@
               </material>
             </frame>
             <frame frameType="CornerRB">
-              <textureFlip>None</textureFlip>
+              <textureFlip>Rotate180</textureFlip>
               <material name="Frame_05RB">
                 <texMap imageName="characters_frame_01" />
               </material>
@@ -510,7 +510,7 @@
               </material>
             </frame>
             <frame frameType="CornerRB">
-              <textureFlip>None</textureFlip>
+              <textureFlip>Rotate180</textureFlip>
               <material name="Frame_02RB">
                 <texMap imageName="characters_frame_01" />
               </material>
@@ -552,7 +552,7 @@
               </material>
             </frame>
             <frame frameType="CornerRB">
-              <textureFlip>None</textureFlip>
+              <textureFlip>Rotate180</textureFlip>
               <material name="Frame_03RB">
                 <texMap imageName="characters_frame_01" />
               </material>

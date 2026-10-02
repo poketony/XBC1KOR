@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
   <head>
-    <create user="" host="" date="2026-09-28T22:46:13.4552888+09:00" source="" />
+    <create user="" host="" date="2026-09-30T00:59:44.6484232+09:00" source="" />
     <title />
     <comment />
     <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
@@ -565,7 +565,7 @@
           <size x="275" y="20" />
           <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true">
             <fontSize x="16.6666679" y="20" />
-            <text>엇갈림 통신&lt;img src=passing_icon/&gt;으로 획득</text>
+            <text>엇갈림 통신 &lt;img src=passing_icon/&gt;으로 획득</text>
             <topColor r="0" g="125" b="225" a="255" />
             <bottomColor r="0" g="125" b="225" a="255" />
             <positionType x="Left" y="Top" />

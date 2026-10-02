@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
   <head>
-    <create user="" host="" date="2026-09-28T22:56:16.8112174+09:00" source="" />
+    <create user="" host="" date="2026-09-30T00:47:04.2582957+09:00" source="" />
     <title />
     <comment />
     <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
@@ -43,10 +43,10 @@
         </pane>
         <pane kind="Null" name="Group_12">
           <basePositionType x="Left" y="Top" />
-          <translate x="10" y="100" z="0" />
+          <translate x="10" y="132" z="0" />
           <rotate x="0" y="0" z="0" />
           <scale x="1" y="1" />
-          <size x="300" y="141" />
+          <size x="300" y="109" />
           <group>
             <layoutPosition>None</layoutPosition>
           </group>
@@ -409,7 +409,7 @@
         </pane>
         <pane kind="Window" name="Frame_09">
           <basePositionType x="Left" y="Top" />
-          <translate x="138" y="0" z="0" />
+          <translate x="138" y="3" z="0" />
           <rotate x="0" y="0" z="0" />
           <scale x="1" y="1" />
           <size x="162" y="101.684921" />
@@ -433,7 +433,7 @@
         </pane>
         <pane kind="Window" name="Frame_55">
           <basePositionType x="Left" y="Top" />
-          <translate x="155" y="63" z="0" />
+          <translate x="155" y="31" z="0" />
           <rotate x="0" y="0" z="0" />
           <scale x="1" y="1" />
           <size x="128" y="31" />
@@ -1661,7 +1661,7 @@
         </pane>
         <pane kind="TextBox" name="TextBox_201">
           <basePositionType x="Left" y="Top" />
-          <translate x="0" y="32" z="0" />
+          <translate x="0" y="0" z="0" />
           <rotate x="0" y="0" z="0" />
           <scale x="1" y="1" />
           <size x="300" y="109" />

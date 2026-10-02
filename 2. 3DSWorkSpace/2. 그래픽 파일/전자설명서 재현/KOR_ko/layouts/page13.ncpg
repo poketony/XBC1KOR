@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
   <head>
-    <create user="" host="" date="2026-09-28T16:01:56.558377+09:00" source="" />
+    <create user="" host="" date="2026-09-30T00:57:18.6588406+09:00" source="" />
     <title />
     <comment />
     <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
@@ -133,7 +133,7 @@
         </pane>
         <pane kind="Null" name="Group_02">
           <basePositionType x="Left" y="Top" />
-          <translate x="10" y="907.6" z="0" />
+          <translate x="10" y="908" z="0" />
           <rotate x="0" y="0" z="0" />
           <scale x="1" y="1" />
           <size x="300" y="211" />
@@ -183,7 +183,7 @@
         </pane>
         <pane kind="Null" name="Group_03">
           <basePositionType x="Left" y="Top" />
-          <translate x="0" y="781.6" z="0" />
+          <translate x="0" y="782" z="0" />
           <rotate x="0" y="0" z="0" />
           <scale x="1" y="1" />
           <size x="310" y="118" />
@@ -582,7 +582,7 @@
         </pane>
         <pane kind="Picture" name="Picture_08">
           <basePositionType x="Left" y="Top" />
-          <translate x="0" y="1098.6" z="0" />
+          <translate x="0" y="1099" z="0" />
           <rotate x="0" y="0" z="0" />
           <scale x="1" y="1" />
           <size x="320" y="73" />
@@ -1025,7 +1025,7 @@
           <size x="272" y="87" />
           <textBox font="cbf_ko-Hang-KR" autoWidthAdjust="true" indentEnabled="true" indentText="※">
             <fontSize x="15" y="18" />
-            <text>&lt;indent/&gt;인연의 강도에는 &lt;img src=13_icon_02/&gt;＜&lt;img src=13_icon_03/&gt;＜&lt;img src=13_icon_04/&gt;＜&lt;img src=13_icon_05/&gt;＜&lt;img src=13_icon_06/&gt;의 5단계가 있으며, 메뉴의 &lt;img src=13_icon_07/&gt;(저널)에 있는 &lt;img src=13_icon_08/&gt;(인연 시스템)에서 확인할 수 있습니다.</text>
+            <text>&lt;indent/&gt;인연의 강도에는 &lt;img src=13_icon_02/&gt;＜&lt;img src=13_icon_03/&gt;＜&lt;img src=13_icon_04/&gt;＜&lt;img src=13_icon_05/&gt;＜&lt;img src=13_icon_06/&gt;의 5단계가 있으며, 메뉴의 &lt;img src=13_icon_07/&gt;(저널)에 있는 &lt;img src=13_icon_08/&gt;(인연 맵)에서 확인할 수 있습니다.</text>
             <topColor r="255" g="255" b="255" a="255" />
             <bottomColor r="255" g="255" b="255" a="255" />
             <positionType x="Left" y="Top" />
@@ -1338,7 +1338,7 @@
         </paneTree>
       </paneHierarchy>
       <screenSetting origin="Normal">
-        <layoutSize x="320" y="1171" />
+        <layoutSize x="320" y="1172" />
         <screenBottomMargin>0</screenBottomMargin>
         <backGround>
           <color r="197" g="226" b="240" a="255" />
